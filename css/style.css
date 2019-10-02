@@ -1,0 +1,42 @@
+/*TAG SELECTOR*/
+body {
+  background-color: #b6e6bd;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3{
+  color: #4baea0;
+}
+
+td{
+  color: #394a6d;
+}
+
+p{
+  color: #445c3c;
+}
+/*CLASS SELECTOR*/
+.title{
+  color: #4baea0;
+}
+.circular{
+  border-radius: 100%
+}
+
+.subtitle{
+  color: #443737;
+}
+
+.rating{
+  color: OrangeRed;
+}
+/*ID SELECTOR*/
+#resumename{
+  color: #4baea0;
+}
